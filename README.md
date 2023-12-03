@@ -4,18 +4,6 @@
 
 Este é um projeto simples de um jogo Snake implementado em Python, fazendo uso de uma estrutura de dados de fila (queue) para armazenar as posições da cobra. O Pygame é utilizado para criar a interface gráfica do jogo.
 
-## Requisitos
-
-Python 3.x
-Pygame (instalável via pip install pygame)
-
-## Como Jogar
-
-Execute o código Python.
-Use as teclas de seta (cima, baixo, esquerda, direita) para controlar a direção da cobra.
-A cobra crescerá ao comer a comida (pontos são mostrados na tela).
-O jogo termina se a cobra colidir com as bordas da tela ou com seu próprio corpo.
-
 ## Estrutura de Dados
 
 O jogo utiliza uma implementação de lista duplamente encadeada com comportamento de fila para armazenar as posições da cobra. A classe DoublyLinkedList é responsável por manipular a fila.
@@ -34,6 +22,19 @@ class DoublyLinkedList:
         self.tail = None
 ```
 A posição de cada pixel da cobra é armazenada em um vetor de coordenadas (x, y). Ao se mover o vetor de coordenadas mais antigo (primeiro da fila) é deletado e um novo vetor é adicionado (último da fila), desse modo, fica evidente o porquê a estrutura de dados fila (queue) foi escolhida neste projeto.
+
+## Requisitos
+
+Python 3.x
+Pygame (instalável via pip install pygame)
+
+## Como Jogar
+
+Execute o código Python.
+Use as teclas de seta (cima, baixo, esquerda, direita) para controlar a direção da cobra.
+A cobra crescerá ao comer a comida (pontos são mostrados na tela).
+O jogo termina se a cobra colidir com as bordas da tela ou com seu próprio corpo.
+
 
 ## Créditos
 
