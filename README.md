@@ -53,4 +53,6 @@ Marcelo Ian da Luz
 ## Referências
 [https://www.youtube.com/watch?v=H4TXHI9BRCQ&list=WL&index=8](https://www.youtube.com/watch?v=H4TXHI9BRCQ&list=WL&index=8)
 
-[(https://www.youtube.com/watch?v=ebVV-6QMUIU&list=WL&index=9)https://www.youtube.com/watch?v=ebVV-6QMUIU&list=WL&index=9]
+[https://www.youtube.com/watch?v=ebVV-6QMUIU&list=WL&index=9](https://www.youtube.com/watch?v=ebVV-6QMUIU&list=WL&index=9)
+
+[https://www.youtube.com/watch?v=QFvqStqPCRU&list=WL&index=10)](https://www.youtube.com/watch?v=QFvqStqPCRU&list=WL&index=10)]
