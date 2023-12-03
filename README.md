@@ -20,6 +20,7 @@ O jogo termina se a cobra colidir com as bordas da tela ou com seu próprio corp
 
 O jogo utiliza uma implementação de lista duplamente encadeada com comportamento de fila para armazenar as posições da cobra. A classe DoublyLinkedList é responsável por manipular a fila.
 
+```bash
 class Node:
     def __init__(self, data=None):
         self.data = data
@@ -31,7 +32,7 @@ class DoublyLinkedList:
     def __init__(self):
         self.head = None
         self.tail = None
-
+```
 A posição de cada pixel da cobra é armazenada em um vetor de coordenadas (x, y). Ao se mover o vetor de coordenadas mais antigo (primeiro da fila) é deletado e um novo vetor é adicionado (último da fila), desse modo, fica evidente o porquê a estrutura de dados fila (queue) foi escolhida neste projeto.
 
 ## Créditos
