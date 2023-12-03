@@ -50,8 +50,7 @@ No caso de qualquer dificuldade de visibilidade da interface do programa, sinta-
 
 Marcelo Ian da Luz
 
-## Agradecimentos
+## Referências
+[https://www.youtube.com/watch?v=H4TXHI9BRCQ&list=WL&index=8](https://www.youtube.com/watch?v=H4TXHI9BRCQ&list=WL&index=8)
 
-O jogo Snake foi inspirado por projetos semelhantes e tutoriais online. Agradecimentos à comunidade Pygame e aos educadores da UnB que contribuíram com recursos educacionais sobre estruturas de dados em Python.
-
-Divirta-se jogando a Snake! 🐍🎮
+[(https://www.youtube.com/watch?v=ebVV-6QMUIU&list=WL&index=9)https://www.youtube.com/watch?v=ebVV-6QMUIU&list=WL&index=9]
