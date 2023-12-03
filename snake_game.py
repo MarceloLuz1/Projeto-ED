@@ -66,6 +66,7 @@ class DoublyLinkedList:
             print(current.data, end=" ")
             current = current.next
         return
+
     def reverse_iterator(self):
         current = self.tail.prev
         while current:
@@ -206,7 +207,7 @@ def rodar_jogo():
 
         # desenhar_cobra
 
-        pixels.insert([x, y])
+        pixels.insert((x, y))
 
         if len(pixels) > tamanho_cobra:
             pixels.delete()
@@ -214,8 +215,8 @@ def rodar_jogo():
         # se a cobra bateu no proprio corpo
 
         for pixel in pixels.reverse_iterator():
-                if pixel == [x, y]:
-                    fim_jogo = True
+            if pixel == (x, y):
+                fim_jogo = True
 
         desenhar_cobra(tamanho_quadrado, pixels)
 
@@ -235,5 +236,6 @@ def rodar_jogo():
             comida_x, comida_y = gerar_comida()
 
         relogio.tick(velocidade_jogo)
+
 
 rodar_jogo()
