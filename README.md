@@ -25,16 +25,17 @@ A posição de cada pixel da cobra é armazenada em um vetor de coordenadas (x, 
 
 ## Requisitos
 
-Certifique-se de ter o Python 3 ou superior e o Pygame instalados em seu sistema.
+Certifique-se de ter o Python 3 ou superior e o Pygame instalados em seu sistema (utilize o código abaixo no terminal)
 
 ```bash
 pip install pygame
 ```
+
 ## Como Jogar
 
 Execute o código Python.
-Use as teclas de seta (cima, baixo, esquerda, direita) para controlar a direção da cobra.
-A cobra crescerá ao comer a comida (pontos são mostrados na tela).
+Use as teclas de seta (cima, baixo, esquerda, direita) para controlar a direção da cobra (pixels verdes na tela). \n
+A cobra crescerá ao comer a comida (pixels vermelhos na tela). O contador no canto superior esquerdo indico o número de pontos.\n
 O jogo termina se a cobra colidir com as bordas da tela ou com seu próprio corpo.
 
 
