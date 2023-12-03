@@ -34,6 +34,7 @@ pip install pygame
 ## Como Jogar
 
 Execute o código Python.
+
 Use as teclas de seta (cima, baixo, esquerda, direita) para controlar a direção da cobra (pixels verdes na tela).
 
 A cobra crescerá ao comer a comida (pixels vermelhos na tela). O contador no canto superior esquerdo indico o número de pontos.
@@ -41,14 +42,16 @@ A cobra crescerá ao comer a comida (pixels vermelhos na tela). O contador no ca
 O jogo termina se a cobra colidir com as bordas da tela ou com seu próprio corpo.
 
 
-## Créditos
+## Obersevações
 
-Autor(es) e contribuidores.
+No caso de qualquer dificuldade de visibilidade da interface do programa, sinta-se a vontade para alterar os valores de altura e largura na seção 'configurações iniciais' (altere somente para valores inteiros).
 
-## Licença
+## Autores
 
-Este projeto é distribuído sob a licença MIT.
+Marcelo Ian da Luz
 
 ## Agradecimentos
 
-Agradecimentos a contribuidores e projetos inspiradores.
+O jogo Snake foi inspirado por projetos semelhantes e tutoriais online. Agradecimentos à comunidade Pygame e aos educadores da UnB que contribuíram com recursos educacionais sobre estruturas de dados em Python.
+
+Divirta-se jogando a Snake! 🐍🎮
