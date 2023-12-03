@@ -44,11 +44,13 @@ O jogo termina se a cobra colidir com as bordas da tela ou com seu próprio corp
 
 ## Obersevações
 
-No caso de qualquer dificuldade de visibilidade da interface do programa, sinta-se a vontade para alterar os valores de altura e largura na seção 'configurações iniciais' no arquivo do programa (altere somente para valores inteiros).
+No caso de qualquer dificuldade de visibilidade da interface do programa, sinta-se a vontade para alterar os valores de altura e largura na seção "configurações iniciais" no arquivo do programa (altere somente para valores inteiros).
+
+Também é possível alterar a velocidade do jogo e o tamanho dos pixels a partir da variáveis "velocidade_jogo" e "tamanho_quadrado", respectivamente, caso queira um desafio maior (altere somente para valores inteiros).
 
 ## Autores
 
-Marcelo Ian da Luz
+Marcelo Ian da Luz - marcelo.luz@aluno.unb.br
 
 ## Referências
 [https://www.youtube.com/watch?v=H4TXHI9BRCQ&list=WL&index=8](https://www.youtube.com/watch?v=H4TXHI9BRCQ&list=WL&index=8)
