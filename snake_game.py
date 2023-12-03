@@ -1,4 +1,3 @@
-```python
 class Node:
     def __init__(self, data=None):
         self.data = data
@@ -237,6 +236,4 @@ def rodar_jogo():
 
         relogio.tick(velocidade_jogo)
 
-
 rodar_jogo()
-```
