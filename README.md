@@ -34,8 +34,10 @@ pip install pygame
 ## Como Jogar
 
 Execute o código Python.
-Use as teclas de seta (cima, baixo, esquerda, direita) para controlar a direção da cobra (pixels verdes na tela). \n
-A cobra crescerá ao comer a comida (pixels vermelhos na tela). O contador no canto superior esquerdo indico o número de pontos.\n
+Use as teclas de seta (cima, baixo, esquerda, direita) para controlar a direção da cobra (pixels verdes na tela).
+
+A cobra crescerá ao comer a comida (pixels vermelhos na tela). O contador no canto superior esquerdo indico o número de pontos.
+
 O jogo termina se a cobra colidir com as bordas da tela ou com seu próprio corpo.
 
 
