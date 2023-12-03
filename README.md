@@ -44,7 +44,7 @@ O jogo termina se a cobra colidir com as bordas da tela ou com seu próprio corp
 
 ## Obersevações
 
-No caso de qualquer dificuldade de visibilidade da interface do programa, sinta-se a vontade para alterar os valores de altura e largura na seção 'configurações iniciais' (altere somente para valores inteiros).
+No caso de qualquer dificuldade de visibilidade da interface do programa, sinta-se a vontade para alterar os valores de altura e largura na seção 'configurações iniciais' no arquivo do programa (altere somente para valores inteiros).
 
 ## Autores
 
