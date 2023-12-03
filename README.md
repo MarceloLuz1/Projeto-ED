@@ -25,9 +25,11 @@ A posição de cada pixel da cobra é armazenada em um vetor de coordenadas (x, 
 
 ## Requisitos
 
-Python 3.x
-Pygame (instalável via pip install pygame)
+Certifique-se de ter o Python 3 ou superior e o Pygame instalados em seu sistema.
 
+```bash
+pip install pygame
+```
 ## Como Jogar
 
 Execute o código Python.
@@ -43,14 +45,6 @@ Autor(es) e contribuidores.
 ## Licença
 
 Este projeto é distribuído sob a licença MIT.
-
-## Exemplos
-
-Links ou trechos de código para demonstrações.
-
-## Contato
-
-Informações de contato.
 
 ## Agradecimentos
 
