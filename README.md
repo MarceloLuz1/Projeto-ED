@@ -55,6 +55,6 @@ Marcelo Ian da Luz - marcelo.luz@aluno.unb.br
 ## Referências
 [Vídeo 1](https://www.youtube.com/watch?v=H4TXHI9BRCQ&list=WL&index=8)
 
-[https://www.youtube.com/watch?v=ebVV-6QMUIU&list=WL&index=9](https://www.youtube.com/watch?v=ebVV-6QMUIU&list=WL&index=9)
+[Vídeo 2](https://www.youtube.com/watch?v=ebVV-6QMUIU&list=WL&index=9)
 
-[https://www.youtube.com/watch?v=QFvqStqPCRU&list=WL&index=10](https://www.youtube.com/watch?v=QFvqStqPCRU&list=WL&index=10)
+[Vídeo 3](https://www.youtube.com/watch?v=QFvqStqPCRU&list=WL&index=10)
