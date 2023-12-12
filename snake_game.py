@@ -58,13 +58,7 @@ class DoublyLinkedList:
         while current is not None:
             yield current.data
             current = current.next
-
-    def pick_head(self):
-        return self.head.data
-
-    def pick_tail(self):
-        return self.tail.data
-
+            
     def display(self):
         current = self.head
         while current:
