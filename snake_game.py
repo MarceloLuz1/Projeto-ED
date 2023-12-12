@@ -1,3 +1,8 @@
+import pygame
+
+import random
+
+
 class Node:
     def __init__(self, data=None):
         self.data = data
@@ -76,10 +81,6 @@ class DoublyLinkedList:
 
 # configurações iniciais
 
-import pygame
-
-import random
-
 pygame.init()
 
 pygame.display.set_caption("Jogo Snake Python")
@@ -89,16 +90,6 @@ largura, altura = 800, 600
 tela = pygame.display.set_mode((largura, altura))
 
 relogio = pygame.time.Clock()
-
-# cores RGB
-
-preto = (0, 0, 0)
-
-branco = (255, 255, 255)
-
-vermelho = (255, 0, 0)
-
-verde = (0, 255, 0)
 
 # parametros da cobra
 
@@ -117,18 +108,18 @@ def gerar_comida():
 
 
 def desenhar_comida(tamanho, comida_x, comida_y):
-    pygame.draw.rect(tela, vermelho, [comida_x, comida_y, tamanho, tamanho])
+    pygame.draw.rect(tela, (255, 0, 0), [comida_x, comida_y, tamanho, tamanho])
 
 
 def desenhar_cobra(tamanho, pixels):
     for pixel in pixels:
-        pygame.draw.rect(tela, verde, [pixel[0], pixel[1], tamanho, tamanho])
+        pygame.draw.rect(tela, (0, 255, 0), [pixel[0], pixel[1], tamanho, tamanho])
 
 
 def desenhar_pontuacao(pontuacao):
     fonte = pygame.font.SysFont("Helvetica", 35)
 
-    texto = fonte.render(f"Pontos: {pontuacao}", True, branco)
+    texto = fonte.render(f"Pontos: {pontuacao}", True, (255, 255, 255))
 
     tela.blit(texto, [1, 1])
 
@@ -180,7 +171,7 @@ def rodar_jogo():
 
     while not fim_jogo:
 
-        tela.fill(preto)
+        tela.fill((0, 0, 0))
 
         for evento in pygame.event.get():
 
