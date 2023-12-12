@@ -53,7 +53,7 @@ Também é possível alterar a velocidade do jogo e o tamanho dos pixels a parti
 Marcelo Ian da Luz - marcelo.luz@aluno.unb.br
 
 ## Referências
-[https://www.youtube.com/watch?v=H4TXHI9BRCQ&list=WL&index=8](https://www.youtube.com/watch?v=H4TXHI9BRCQ&list=WL&index=8)
+[Vídeo 1](https://www.youtube.com/watch?v=H4TXHI9BRCQ&list=WL&index=8)
 
 [https://www.youtube.com/watch?v=ebVV-6QMUIU&list=WL&index=9](https://www.youtube.com/watch?v=ebVV-6QMUIU&list=WL&index=9)
 
